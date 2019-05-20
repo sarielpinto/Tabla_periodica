@@ -1,69 +1,69 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\2c77bebf29fc89b22b5ffe96ac5865a6\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6ba10a06264dec1d49140b6b3ec5bfd5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c797072ec5b69112ca262e82e14ddf6f\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\937acc279bd5b75f80c224441be87c6c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8dc42dfffe63b516e822bba035c52afe\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\e398014d22116c3ea2c7da2ef7b16782\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\28271de650af1b19d60a71dd7f7e77e2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\d8d300a741cba849aeb115d7f667cce7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\998f56cafc7aa1e5452e11e9488b46c9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\4efc705d3fc7c604add9005172956b00\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\cf5e1b3426b9e07c00d2d80f3d7794d6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\d5304b60bd9fcc64255b51f0fbfc3335\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\87aec80896fd651996b0b5a13993c33b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\44c90a77a669561651c456030fc59dd4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\57bc813508f8324348036bdbc4b40397\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fe10bf6b126db8a7ee01070952305fab\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\985c9028717842d1057113122325f667\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c8caa3cf2a3e6aca8ff7b4937bbabef8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7383bef5fc0a0d5e54b98d19d790fc11\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8fff1cf22fd207114e1eee3d4d1548f8\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9b7e6059746587e85e0fddfaa936ee6b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8a3344a1a8f2b1dcf3a849f1c6926e9e\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\964b7db63c04ac1859e27e7a074f733e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\3afa3410ca30caf4990cc403374596c3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c82509b1bb6e6a525c6c60d0aec63378\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\1bd85f4ccc946279c2374450ceff1233\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\895bae7fa79a87db5818da3c3472c6e0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\14e8c6e93b74979ec7a68aee6e6e7686\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\cad551de7b30338a9e65673cced614f8\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\3e21a011f7841b8a575b86404c17a78a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\601ef50a6668b1378fa6739a61052bf0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9abf1fc7b07d5dc60cc9e47b18eae2ff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c962801a826af337519d9049cdef0f88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fdc6a4d4b2d33180d298cd24de08b13c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6fb739af8ecc15c56de071a007b35d01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f16ae891ff055bcd56d86c9821558c47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\906bed493977c41839475b585ae3533c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\07fa3454d34c9b3defa14786cf839a26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c5eafb95ba6d586846ca2bc1a89a7ccc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\be32e7f76826d2bbd32516c9324b24f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\172ade3e6772dd1d519e6005d23a12bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\53b44ef65eea2414cb8fc9c56ddcbd9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\5f54fe5252eb090b85459e5066250cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\10c8736dbc0579ff1180f6531e8a24ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\351b4006137c5e5fe5b5b96617d78fb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7d28a9d8dbb0ae9fa8e42747a6f36de7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\143f53386de9e01650d51ff983677d28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\5fd34549ef0dd6386b4d78e762a4869d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\1ebda54c563c8c1b5f801cb9d02520a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f80f34cfd49d5700a7a8dd5b67139a2d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ec29323d2cf5df6ac5ece8b11e5b3e66\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f31f2653f74e8715e7f4040b9af2fa16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9027207b6a9fbba5e9d48335858d8f13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\0ce51ddb6400833ce4ab7e9693c05bed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\20d30f13110c207e55b533798e8a4986\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ebe304a00e1a3f7edebabf7de7142008\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6523da9705f2bd776d963d8b37bc7ae9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c963675d4e5a4534df49fd348f1fa376\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\4b54eaea8c50b329b15233c0cda4261f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\b65a1e5a5b5fb0876f58135e84c29f64\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f00eb8840a5908d02f96f5dbf1c2d24e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\b5f9de6ba96543e39200258dc46fdb0a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:5:5-20:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\2c77bebf29fc89b22b5ffe96ac5865a6\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\2c77bebf29fc89b22b5ffe96ac5865a6\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c797072ec5b69112ca262e82e14ddf6f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c797072ec5b69112ca262e82e14ddf6f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7383bef5fc0a0d5e54b98d19d790fc11\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7383bef5fc0a0d5e54b98d19d790fc11\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8fff1cf22fd207114e1eee3d4d1548f8\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8fff1cf22fd207114e1eee3d4d1548f8\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9abf1fc7b07d5dc60cc9e47b18eae2ff\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9abf1fc7b07d5dc60cc9e47b18eae2ff\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fdc6a4d4b2d33180d298cd24de08b13c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fdc6a4d4b2d33180d298cd24de08b13c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f80f34cfd49d5700a7a8dd5b67139a2d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f80f34cfd49d5700a7a8dd5b67139a2d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ec29323d2cf5df6ac5ece8b11e5b3e66\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ec29323d2cf5df6ac5ece8b11e5b3e66\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7383bef5fc0a0d5e54b98d19d790fc11\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f80f34cfd49d5700a7a8dd5b67139a2d\AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
@@ -77,87 +77,87 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gra
 	android:theme
 		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.tabla_periodica.MainActivity
-ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:theme
-		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:13:13-56
+		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:14:13-56
 	android:name
-		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\2c77bebf29fc89b22b5ffe96ac5865a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\2c77bebf29fc89b22b5ffe96ac5865a6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6ba10a06264dec1d49140b6b3ec5bfd5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6ba10a06264dec1d49140b6b3ec5bfd5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c797072ec5b69112ca262e82e14ddf6f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c797072ec5b69112ca262e82e14ddf6f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\937acc279bd5b75f80c224441be87c6c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\937acc279bd5b75f80c224441be87c6c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8dc42dfffe63b516e822bba035c52afe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8dc42dfffe63b516e822bba035c52afe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\e398014d22116c3ea2c7da2ef7b16782\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\e398014d22116c3ea2c7da2ef7b16782\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\28271de650af1b19d60a71dd7f7e77e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\28271de650af1b19d60a71dd7f7e77e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\d8d300a741cba849aeb115d7f667cce7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\d8d300a741cba849aeb115d7f667cce7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\998f56cafc7aa1e5452e11e9488b46c9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\998f56cafc7aa1e5452e11e9488b46c9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\4efc705d3fc7c604add9005172956b00\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\4efc705d3fc7c604add9005172956b00\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\cf5e1b3426b9e07c00d2d80f3d7794d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\cf5e1b3426b9e07c00d2d80f3d7794d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\d5304b60bd9fcc64255b51f0fbfc3335\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\d5304b60bd9fcc64255b51f0fbfc3335\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\87aec80896fd651996b0b5a13993c33b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\87aec80896fd651996b0b5a13993c33b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\44c90a77a669561651c456030fc59dd4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\44c90a77a669561651c456030fc59dd4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\57bc813508f8324348036bdbc4b40397\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\57bc813508f8324348036bdbc4b40397\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fe10bf6b126db8a7ee01070952305fab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fe10bf6b126db8a7ee01070952305fab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\985c9028717842d1057113122325f667\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\985c9028717842d1057113122325f667\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c8caa3cf2a3e6aca8ff7b4937bbabef8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c8caa3cf2a3e6aca8ff7b4937bbabef8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7383bef5fc0a0d5e54b98d19d790fc11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7383bef5fc0a0d5e54b98d19d790fc11\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8fff1cf22fd207114e1eee3d4d1548f8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8fff1cf22fd207114e1eee3d4d1548f8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9b7e6059746587e85e0fddfaa936ee6b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9b7e6059746587e85e0fddfaa936ee6b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8a3344a1a8f2b1dcf3a849f1c6926e9e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\8a3344a1a8f2b1dcf3a849f1c6926e9e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\964b7db63c04ac1859e27e7a074f733e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\964b7db63c04ac1859e27e7a074f733e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\3afa3410ca30caf4990cc403374596c3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\3afa3410ca30caf4990cc403374596c3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c82509b1bb6e6a525c6c60d0aec63378\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c82509b1bb6e6a525c6c60d0aec63378\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\1bd85f4ccc946279c2374450ceff1233\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\1bd85f4ccc946279c2374450ceff1233\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\895bae7fa79a87db5818da3c3472c6e0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\895bae7fa79a87db5818da3c3472c6e0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\14e8c6e93b74979ec7a68aee6e6e7686\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\14e8c6e93b74979ec7a68aee6e6e7686\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\cad551de7b30338a9e65673cced614f8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\cad551de7b30338a9e65673cced614f8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\3e21a011f7841b8a575b86404c17a78a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\3e21a011f7841b8a575b86404c17a78a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\601ef50a6668b1378fa6739a61052bf0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\601ef50a6668b1378fa6739a61052bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9abf1fc7b07d5dc60cc9e47b18eae2ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9abf1fc7b07d5dc60cc9e47b18eae2ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c962801a826af337519d9049cdef0f88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c962801a826af337519d9049cdef0f88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fdc6a4d4b2d33180d298cd24de08b13c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\fdc6a4d4b2d33180d298cd24de08b13c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6fb739af8ecc15c56de071a007b35d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6fb739af8ecc15c56de071a007b35d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f16ae891ff055bcd56d86c9821558c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f16ae891ff055bcd56d86c9821558c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\906bed493977c41839475b585ae3533c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\906bed493977c41839475b585ae3533c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\07fa3454d34c9b3defa14786cf839a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\07fa3454d34c9b3defa14786cf839a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c5eafb95ba6d586846ca2bc1a89a7ccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c5eafb95ba6d586846ca2bc1a89a7ccc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\be32e7f76826d2bbd32516c9324b24f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\be32e7f76826d2bbd32516c9324b24f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\172ade3e6772dd1d519e6005d23a12bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\172ade3e6772dd1d519e6005d23a12bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\53b44ef65eea2414cb8fc9c56ddcbd9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\53b44ef65eea2414cb8fc9c56ddcbd9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\5f54fe5252eb090b85459e5066250cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\5f54fe5252eb090b85459e5066250cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\10c8736dbc0579ff1180f6531e8a24ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\10c8736dbc0579ff1180f6531e8a24ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\351b4006137c5e5fe5b5b96617d78fb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\351b4006137c5e5fe5b5b96617d78fb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7d28a9d8dbb0ae9fa8e42747a6f36de7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\7d28a9d8dbb0ae9fa8e42747a6f36de7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\143f53386de9e01650d51ff983677d28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\143f53386de9e01650d51ff983677d28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\5fd34549ef0dd6386b4d78e762a4869d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\5fd34549ef0dd6386b4d78e762a4869d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\1ebda54c563c8c1b5f801cb9d02520a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\1ebda54c563c8c1b5f801cb9d02520a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f80f34cfd49d5700a7a8dd5b67139a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f80f34cfd49d5700a7a8dd5b67139a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ec29323d2cf5df6ac5ece8b11e5b3e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ec29323d2cf5df6ac5ece8b11e5b3e66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f31f2653f74e8715e7f4040b9af2fa16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f31f2653f74e8715e7f4040b9af2fa16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9027207b6a9fbba5e9d48335858d8f13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\9027207b6a9fbba5e9d48335858d8f13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\0ce51ddb6400833ce4ab7e9693c05bed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\0ce51ddb6400833ce4ab7e9693c05bed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\20d30f13110c207e55b533798e8a4986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\20d30f13110c207e55b533798e8a4986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ebe304a00e1a3f7edebabf7de7142008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\ebe304a00e1a3f7edebabf7de7142008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6523da9705f2bd776d963d8b37bc7ae9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\6523da9705f2bd776d963d8b37bc7ae9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c963675d4e5a4534df49fd348f1fa376\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\c963675d4e5a4534df49fd348f1fa376\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\4b54eaea8c50b329b15233c0cda4261f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\4b54eaea8c50b329b15233c0cda4261f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\b65a1e5a5b5fb0876f58135e84c29f64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\b65a1e5a5b5fb0876f58135e84c29f64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f00eb8840a5908d02f96f5dbf1c2d24e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\f00eb8840a5908d02f96f5dbf1c2d24e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\b5f9de6ba96543e39200258dc46fdb0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\litzy\.gradle\caches\transforms-2\files-2.1\b5f9de6ba96543e39200258dc46fdb0a\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\litzy\AndroidStudioProjects\Tabla_periodica\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
