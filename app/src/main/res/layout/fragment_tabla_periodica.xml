@@ -146,7 +146,7 @@
                                 android:background="#00FF00"
                                 android:layout_margin="5dp"
                                 android:text="H"
-                                android:onClick=""
+
                                 />
 
                             <Button
@@ -451,6 +451,7 @@
                                 android:id="@+id/b9"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -459,6 +460,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="5"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -466,6 +468,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="V" />
 
                             <Button
@@ -473,6 +476,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Nb" />
 
                             <Button
@@ -480,6 +484,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Ta" />
 
                             <Button
@@ -487,11 +492,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Db" />
                             <Button
                                 android:id="@+id/esp2"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -499,6 +506,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Ce" />
 
                             <Button
@@ -506,6 +514,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Th" />
 
 
@@ -519,17 +528,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="@string/metalest"/>
                             <Button
                                 android:id="@+id/b11"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b12"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -538,6 +550,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="6"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -545,6 +558,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Cr" />
 
                             <Button
@@ -552,6 +566,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Mo" />
 
                             <Button
@@ -559,6 +574,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="W" />
 
                             <Button
@@ -566,11 +582,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Sg" />
                             <Button
                                 android:id="@+id/esp3"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -578,6 +596,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Pr" />
 
                             <Button
@@ -585,6 +604,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Pa" />
 
                         </LinearLayout>
@@ -597,17 +617,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FFC107"
+                                android:layout_margin="5dp"
                                 android:text="@string/alacinot"/>
                             <Button
                                 android:id="@+id/b14"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b15"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -616,6 +639,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="7"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -623,6 +647,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Mn" />
 
                             <Button
@@ -630,6 +655,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Tc" />
 
                             <Button
@@ -637,6 +663,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Re" />
 
                             <Button
@@ -644,11 +671,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Bh" />
                             <Button
                                 android:id="@+id/esp4"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -656,6 +685,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Nd" />
 
                             <Button
@@ -663,6 +693,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="U" />
 
                         </LinearLayout>
@@ -675,17 +706,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD9927"
+                                android:layout_margin="5dp"
                                 android:text="@string/alcalinos"/>
                             <Button
                                 android:id="@+id/b17"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b18"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -694,6 +728,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="8"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -701,6 +736,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Fe" />
 
                             <Button
@@ -708,6 +744,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Ru" />
 
                             <Button
@@ -715,6 +752,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Os" />
 
                             <Button
@@ -722,11 +760,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Hs" />
                             <Button
                                 android:id="@+id/esp5"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -734,6 +774,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Pm" />
 
                             <Button
@@ -741,6 +782,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Np" />
 
                         </LinearLayout>
@@ -753,17 +795,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="@string/lantanidos"/>
                             <Button
                                 android:id="@+id/b20"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b21"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -772,6 +817,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="9"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -779,6 +825,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Co" />
 
                             <Button
@@ -786,6 +833,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Rh" />
 
                             <Button
@@ -793,6 +841,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="lr" />
 
                             <Button
@@ -800,11 +849,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Mt" />
                             <Button
                                 android:id="@+id/esp6"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -812,6 +863,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Sm" />
 
                             <Button
@@ -819,6 +871,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Pu" />
 
                         </LinearLayout>
@@ -831,17 +884,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="@string/actinidos"/>
                             <Button
                                 android:id="@+id/b23"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b24"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -850,6 +906,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="10"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -857,6 +914,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Ni" />
 
                             <Button
@@ -864,6 +922,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Pd" />
 
                             <Button
@@ -871,6 +930,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Pt" />
 
                             <Button
@@ -878,11 +938,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Ds" />
                             <Button
                                 android:id="@+id/esp7"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -890,6 +952,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Eu" />
 
                             <Button
@@ -897,6 +960,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Am" />
 
                         </LinearLayout>
@@ -908,18 +972,21 @@
                                 android:id="@+id/bu10"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b26"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b27"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -928,6 +995,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="11"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -935,6 +1003,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Cu" />
 
                             <Button
@@ -942,6 +1011,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Ag" />
 
                             <Button
@@ -949,6 +1019,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Au" />
 
                             <Button
@@ -956,11 +1027,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Rg" />
                             <Button
                                 android:id="@+id/esp8"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -968,6 +1041,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Gd" />
 
                             <Button
@@ -975,6 +1049,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Cm" />
 
                         </LinearLayout>
@@ -986,17 +1061,20 @@
                                 android:id="@+id/bu11"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/b29"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
                                 android:id="@+id/b30"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1005,6 +1083,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="12"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1012,6 +1091,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Zn" />
 
                             <Button
@@ -1019,6 +1099,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Cd" />
 
                             <Button
@@ -1026,6 +1107,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Hg" />
 
                             <Button
@@ -1033,11 +1115,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"
+                                android:layout_margin="5dp"
                                 android:text="Cn" />
                             <Button
                                 android:id="@+id/esp9"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1045,6 +1129,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Tb" />
 
                             <Button
@@ -1052,6 +1137,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Bk" />
 
                         </LinearLayout>
@@ -1063,6 +1149,7 @@
                                 android:id="@+id/bu12"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/b32"
@@ -1070,6 +1157,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="13"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1077,6 +1165,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="B" />
 
                             <Button
@@ -1084,6 +1173,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Al" />
 
                             <Button
@@ -1091,6 +1181,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Ga" />
 
                             <Button
@@ -1098,6 +1189,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="ln" />
 
                             <Button
@@ -1105,6 +1197,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Ti" />
 
                             <Button
@@ -1112,11 +1205,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Nh" />
                             <Button
                                 android:id="@+id/esp10"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1124,6 +1219,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Dy" />
 
                             <Button
@@ -1131,6 +1227,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Cf" />
 
                         </LinearLayout>
@@ -1142,6 +1239,7 @@
                                 android:id="@+id/bu14"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/b33"
@@ -1149,6 +1247,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="14"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1156,6 +1255,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="C" />
 
                             <Button
@@ -1163,6 +1263,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="Si" />
 
                             <Button
@@ -1170,6 +1271,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Ge" />
 
                             <Button
@@ -1177,6 +1279,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Sn" />
 
                             <Button
@@ -1184,6 +1287,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Pb" />
 
                             <Button
@@ -1191,11 +1295,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Fl" />
                             <Button
                                 android:id="@+id/esp11"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1203,6 +1309,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Ho" />
 
                             <Button
@@ -1210,6 +1317,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Es" />
 
                         </LinearLayout>
@@ -1221,6 +1329,7 @@
                                 android:id="@+id/bu15"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/b34"
@@ -1228,6 +1337,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="15"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1235,6 +1345,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="N" />
 
                             <Button
@@ -1242,6 +1353,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="P" />
 
                             <Button
@@ -1249,6 +1361,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="As" />
 
                             <Button
@@ -1256,6 +1369,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Sb" />
 
                             <Button
@@ -1263,6 +1377,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Bi" />
 
                             <Button
@@ -1270,11 +1385,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Mc" />
                             <Button
                                 android:id="@+id/esp12"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1282,6 +1399,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Er" />
 
                             <Button
@@ -1289,6 +1407,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Fm" />
 
                         </LinearLayout>
@@ -1300,6 +1419,7 @@
                                 android:id="@+id/bu16"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/b35"
@@ -1307,6 +1427,7 @@
                                 android:layout_height="71dp"
                                 android:paddingTop="50dp"
                                 android:text="16"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1314,6 +1435,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="O" />
 
                             <Button
@@ -1321,6 +1443,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="S" />
 
                             <Button
@@ -1328,6 +1451,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="Se" />
 
                             <Button
@@ -1335,6 +1459,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="Te" />
 
                             <Button
@@ -1342,6 +1467,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Po" />
 
                             <Button
@@ -1349,11 +1475,13 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#6BCDFD"
+                                android:layout_margin="5dp"
                                 android:text="Lv" />
                             <Button
                                 android:id="@+id/esp13"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1361,6 +1489,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Tm" />
 
                             <Button
@@ -1368,6 +1497,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Md" />
 
                         </LinearLayout>
@@ -1379,6 +1509,7 @@
                                 android:id="@+id/bu17"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/b36"
@@ -1386,6 +1517,7 @@
                                 android:layout_height="71dp"
                                 android:text="17"
                                 android:paddingTop="50dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1393,6 +1525,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="F" />
 
                             <Button
@@ -1400,6 +1533,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="Cl" />
 
                             <Button
@@ -1407,6 +1541,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="Br" />
 
                             <Button
@@ -1414,6 +1549,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="l" />
 
                             <Button
@@ -1421,17 +1557,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#00FF00"
+                                android:layout_margin="5dp"
                                 android:text="At" />
 
                             <Button
                                 android:id="@+id/ts"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:text="Ts" />
                             <Button
                                 android:id="@+id/esp14"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1439,6 +1578,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Yb" />
 
                             <Button
@@ -1446,6 +1586,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="No" />
 
                         </LinearLayout>
@@ -1460,12 +1601,14 @@
                                 android:layout_height="71dp"
                                 android:text="18"
                                 android:paddingTop="50dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
                             <Button
                                 android:id="@+id/he"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#676CFB"
+                                android:layout_margin="5dp"
                                 android:text="He" />
 
                             <Button
@@ -1473,6 +1616,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#676CFB"
+                                android:layout_margin="5dp"
                                 android:text="Ne" />
 
                             <Button
@@ -1480,6 +1624,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#676CFB"
+                                android:layout_margin="5dp"
                                 android:text="Ar" />
 
                             <Button
@@ -1487,6 +1632,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#676CFB"
+                                android:layout_margin="5dp"
                                 android:text="Kr" />
 
                             <Button
@@ -1494,6 +1640,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#676CFB"
+                                android:layout_margin="5dp"
                                 android:text="Xe" />
 
                             <Button
@@ -1501,17 +1648,20 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#676CFB"
+                                android:layout_margin="5dp"
                                 android:text="Rn" />
 
                             <Button
                                 android:id="@+id/og"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
+                                android:layout_margin="5dp"
                                 android:text="Og" />
                             <Button
                                 android:id="@+id/esp15"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
+                                android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
 
                             <Button
@@ -1519,6 +1669,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD999A"
+                                android:layout_margin="5dp"
                                 android:text="Lu" />
 
                             <Button
@@ -1526,6 +1677,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#7E427E"
+                                android:layout_margin="5dp"
                                 android:text="Lr" />
 
                         </LinearLayout>

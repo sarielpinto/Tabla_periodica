@@ -47,10 +47,10 @@ public class ElementosFragment extends Fragment {
 
         //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        viewPager = (ViewPager)view.findViewById(R.id.viewpager2);
+        viewPager = (ViewPager)view.findViewById(R.id.viewpager);
         setupViewPager(viewPager);
 
-        tabLayout =view.findViewById(R.id.tabs);
+        tabLayout =view.findViewById(R.id.tab);
         tabLayout.setupWithViewPager(viewPager);
 
         return view;
