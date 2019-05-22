@@ -26,9 +26,8 @@ public class  tablaPeriodicaFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_tabla_periodica, container, false);
 
         Button btnLanzarActivity = (Button) view.findViewById(R.id.h45);
-
-
-
+        Button helio=(Button)view.findViewById(R.id.he);
+        Button litio=(Button)view.findViewById(R.id.h46);
 
         btnLanzarActivity.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -38,6 +37,23 @@ public class  tablaPeriodicaFragment extends Fragment {
                 startActivity(intent);
             }
         });
+        helio.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(),Vista.class);
+                intent.putExtra("Elemento",2);
+                startActivity(intent);
+            }
+        });
+        litio.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(),Vista.class);
+                intent.putExtra("Elemento",3);
+                startActivity(intent);
+            }
+        });
+
         return view;
     }
 
