@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="15"
         android:targetSdkVersion="28" />
 
     <application
@@ -18,14 +18,17 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity
-            android:name="com.example.tabla_periodica.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" >
+        <activity android:name="com.example.tabla_periodica.splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name="com.example.tabla_periodica.Vista" />
+        <activity
+            android:name="com.example.tabla_periodica.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
         </activity>
     </application>
 
