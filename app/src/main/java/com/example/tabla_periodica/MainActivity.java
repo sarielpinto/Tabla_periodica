@@ -8,6 +8,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.KeyEvent;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.tabla:
                     //mTextMessage.setText(R.string.title_tabla);
                     toolbar.setTitle("Tabla Periodica");
-                    fragment= new tablaPeriodicaFragment();
+                    fragment = new tablaPeriodicaFragment();
                     loadFragment(fragment);
                     return true;
 
@@ -63,7 +64,21 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if((keyCode==KeyEvent.KEYCODE_BACK)){
+            finish();
+        }
+        return super.onKeyDown(keyCode, event);
+    }
 
+    @Override
+    public void onWindowFocusChanged(boolean hasFocus) {
+        if(hasFocus){
+
+        }
+        super.onWindowFocusChanged(hasFocus);
+    }
 
     private void loadFragment(Fragment fragment) {
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();

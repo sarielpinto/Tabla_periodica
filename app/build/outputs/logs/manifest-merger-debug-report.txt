@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\50899a790c554b2398ba297c89fefde3\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\3deae60c43fcb9c62c088b08bf6ab698\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\99f9891212f07c212f204efd84963d9b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\71db724c49c4c4c36d889f1116a3c6a0\AndroidManifest.xml:2:1-11:12
@@ -39,25 +40,27 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PC-Ernesto\.gradl
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\539cfc925cf2f9fa1f5ff7bcb9848433\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\8f16b5e76330c2a366304da7b4284ed0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\1482481f285ccf2c0188f0925078bc82\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\50899a790c554b2398ba297c89fefde3\AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\50899a790c554b2398ba297c89fefde3\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\3deae60c43fcb9c62c088b08bf6ab698\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\3deae60c43fcb9c62c088b08bf6ab698\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\71db724c49c4c4c36d889f1116a3c6a0\AndroidManifest.xml:9:5-20
@@ -85,33 +88,39 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\PC-Ernesto\.gr
 	android:theme
 		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.tabla_periodica.splash
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:12:9-16:36
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:12:9-53
 	android:name
 		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:12:19-41
+activity#com.example.tabla_periodica.buscador
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:13:19-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:12:42-16:25
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:13:13-65
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:13:21-62
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:15:13-73
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:15:23-70
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.example.tabla_periodica.Vista
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:17:9-43
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:20:9-43
 	android:name
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:17:19-40
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:20:19-40
 activity#com.example.tabla_periodica.MainActivity
-ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:18:9-22:20
+ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:21:9-23:68
 	android:theme
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:20:13-56
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:19:13-41
+		ADDED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml:22:13-41
 uses-sdk
 INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\PC-Ernesto\Desktop\Tabla periodica\Tabla_periodica\app\src\main\AndroidManifest.xml
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\50899a790c554b2398ba297c89fefde3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\50899a790c554b2398ba297c89fefde3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\3deae60c43fcb9c62c088b08bf6ab698\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\3deae60c43fcb9c62c088b08bf6ab698\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PC-Ernesto\.gradle\caches\transforms-2\files-2.1\99f9891212f07c212f204efd84963d9b\AndroidManifest.xml:20:5-44

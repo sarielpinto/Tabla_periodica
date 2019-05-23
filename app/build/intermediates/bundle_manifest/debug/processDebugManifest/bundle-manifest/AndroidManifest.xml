@@ -18,7 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.tabla_periodica.splash" >
+        <activity android:name="com.example.tabla_periodica.splash" />
+        <activity android:name="com.example.tabla_periodica.buscador" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,8 +29,7 @@
         <activity android:name="com.example.tabla_periodica.Vista" />
         <activity
             android:name="com.example.tabla_periodica.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

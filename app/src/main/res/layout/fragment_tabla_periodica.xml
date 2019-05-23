@@ -1297,20 +1297,21 @@
                                 android:background="#6BCDFD"
                                 android:layout_margin="5dp"
                                 android:text="Fl" />
+
+                            <Button
+                                android:id="@+id/ho"
+                                android:layout_width="match_parent"
+                                android:layout_height="71dp"
+                                android:layout_margin="5dp"
+                                android:background="#FD999A"
+                                android:text="Ho" />
+
                             <Button
                                 android:id="@+id/esp11"
                                 android:layout_width="match_parent"
                                 android:layout_height="30dp"
                                 android:layout_margin="5dp"
                                 android:background="@android:color/transparent" />
-
-                            <Button
-                                android:id="@+id/ho"
-                                android:layout_width="match_parent"
-                                android:layout_height="71dp"
-                                android:background="#FD999A"
-                                android:layout_margin="5dp"
-                                android:text="Ho" />
 
                             <Button
                                 android:id="@+id/es"

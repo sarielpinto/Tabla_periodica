@@ -12,7 +12,7 @@ public class DatabaseAccess {
     private SQLiteOpenHelper openHelper;
     private SQLiteDatabase database;
     private static DatabaseAccess instance;
-
+public  List<Integer> listid = new ArrayList<>();
     /**
      * Private constructor to aboid object creation from outside classes.
      *
@@ -61,10 +61,14 @@ public class DatabaseAccess {
         Cursor cursor = database.rawQuery("SELECT * FROM Elementos", null);
         cursor.moveToFirst();
         while (!cursor.isAfterLast()) {
-            list.add("Fecha" + cursor.getString(2));
+            list.add(cursor.getString(1));
+            listid.add((cursor.getInt(0)));
             cursor.moveToNext();
         }
         cursor.close();
         return list;
+    }
+    public List<Integer> getid(){
+        return listid;
     }
 }
