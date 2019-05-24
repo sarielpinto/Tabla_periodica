@@ -110,11 +110,17 @@ public class buscador extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if (bandera) {
-                    if(lstFound.get(position).equals("Boro")) {
+                    if(lstFound.get(position).equals("Hidrògeno")) {
+                        Intent intent = new Intent(getApplicationContext(), Vista.class);
+                        intent.putExtra("Elemento", 1);
+                        startActivity(intent);
+                    }
+                    if(lstFound.get(position).equals("Helio")) {
                         Intent intent = new Intent(getApplicationContext(), Vista.class);
                         intent.putExtra("Elemento", 5);
                         startActivity(intent);
                     }
+
                     if(lstFound.get(position).equals("Oxigeno")) {
                         Intent intent = new Intent(getApplicationContext(), Vista.class);
                         intent.putExtra("Elemento", 8);
