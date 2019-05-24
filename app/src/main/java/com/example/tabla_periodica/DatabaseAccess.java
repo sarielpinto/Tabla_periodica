@@ -13,6 +13,7 @@ public class DatabaseAccess {
     private SQLiteDatabase database;
     private static DatabaseAccess instance;
 public  List<Integer> listid = new ArrayList<>();
+public List<String>listimg=new ArrayList<>();
     /**
      * Private constructor to aboid object creation from outside classes.
      *
@@ -63,6 +64,7 @@ public  List<Integer> listid = new ArrayList<>();
         while (!cursor.isAfterLast()) {
             list.add(cursor.getString(1));
             listid.add((cursor.getInt(0)));
+            listimg.add(cursor.getString(20));
             cursor.moveToNext();
         }
         cursor.close();
@@ -70,5 +72,8 @@ public  List<Integer> listid = new ArrayList<>();
     }
     public List<Integer> getid(){
         return listid;
+    }
+    public List<String>getImage(){
+         return listimg;
     }
 }

@@ -68,7 +68,7 @@ public class ListViewAdapter extends BaseAdapter {
         holder.mTitleTv.setText(ElementList.get(postition).getNombre());
 
         //set the result in imageview
-        //holder.mIconIv.setImageResource(ElementList.get(postition));
+        //holder.mIconIv.setImageResource(ElementList.get(20));
 
         //listview item clicks
         view.setOnClickListener(new View.OnClickListener() {

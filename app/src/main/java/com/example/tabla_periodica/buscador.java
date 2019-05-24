@@ -47,10 +47,11 @@ public class buscador extends AppCompatActivity {
         databaseAccess.open();
         final List<String> quotes = databaseAccess.getElements();
         List<Integer> ids = databaseAccess.getid();
+        List<String> image=databaseAccess.getImage();
         databaseAccess.close();
 
         for(int i=0; i < ids.size(); i++) {
-            Elemento_id idElem = new Elemento_id(ids.get(i), quotes.get(i));
+            Elemento_id idElem = new Elemento_id(ids.get(i), quotes.get(i),image.get(i));
            listElem.add(idElem);
             //Toast.makeText(getApplicationContext(), "la ID ES" + ids.get(i),Toast.LENGTH_SHORT).show();
         }

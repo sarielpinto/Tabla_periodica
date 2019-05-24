@@ -4,9 +4,18 @@ public class Elemento_id {
     int Id;
     String nombre;
     String Url;
-    public Elemento_id(int id, String nombre) {
+    public String getUrl() {
+        return Url;
+    }
+
+    public void setUrl(String url) {
+        Url = url;
+    }
+
+    public Elemento_id(int id, String nombre, String url) {
         Id = id;
         this.nombre = nombre;
+        Url = url;
     }
 
     public String getNombre() {
