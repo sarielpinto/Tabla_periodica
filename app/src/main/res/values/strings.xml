@@ -12,6 +12,14 @@
     <string name="alcalinos">Alcalinos</string>
     <string name="lantanidos">Lantánidos</string>
     <string name="actinidos">Actínidos</string>
+<string name="uno"> -El metal más ligero es el litio, el más pesado es el osmio (concretamente 42.5 veces más pesado que el litio).</string>
+    <string name="dos">-El descubrimiento del flúor fue una labor en la que muchos fracasaron, y algunos murieron. Se sabía dónde estaba, pero no se conseguía aislar porque era muy reactivo (es la especie más oxidante de todas, luego reacciona con casi todo). Muchos murieron intoxicados o por explosiones. Lo consiguió Moissan, quien ganó el Premio Nobel en 1906 por esto"</string>
+     <string name="tres">-En las minas de una pequeña isla sueca (Ytterby), se han descubierto cuatro elementos químicos: itrio, el erbio, el terbio e iterbio.</string>
+   <string name="cuatro"> -Se cree que hay aproximadamente más de 9,000 toneladas de oro disuelto en los océanos de nuestro planeta."</string>
+   <string name="cinco">En la Tabla Periódica no hay ninguna "j"</string>
+    <string name="seis">.Galio (Ga), escandio (Sc), germanio (Ge), polonio (Po), niponio (Np), y francio (Fr) son elementos que hacen referencia a países.</string>
+   <string name="siete">- Dos de los científicos más importantes de la historia también han sido homenajeados en la Tabla Periódica: Einstein, con el einstenio (Es); y Copérnico, con el copernicio (Cn)"</string>
+   <string name="ocho">-El cloro es uno de los elementos químicos más contaminantes: Es un veneno mortal si es arrojado al mar o a los ríos. Basta ver las inmediaciones de algunas fábricas papeleras que utilizan cloro para blanquear el papel. Además, una sola molécula de cloro lanzada a la atmósfera destruye más de 9.000 moléculas de ozono, el gas que nos protege de las radiaciones negativas del Sol</string>
 
 
     <!-- TODO: Remove or change this placeholder text -->
