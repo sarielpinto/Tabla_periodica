@@ -190,7 +190,7 @@
                                 android:text="Cs" />
 
                             <Button
-                                android:id="@+id/h51"
+                                android:id="@+id/fr"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD9927"
@@ -259,7 +259,7 @@
                                 android:text="Ba" />
 
                             <Button
-                                android:id="@+id/h40"
+                                android:id="@+id/ra"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FFC107"
@@ -390,7 +390,7 @@
                                 android:text="Zr" />
 
                             <Button
-                                android:id="@+id/h16"
+                                android:id="@+id/hf"
                                 android:layout_width="match_parent"
                                 android:layout_height="71dp"
                                 android:background="#FD1999"

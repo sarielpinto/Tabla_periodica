@@ -1,8 +1,10 @@
 package com.example.tabla_periodica;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.CoordinatorLayout;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
@@ -10,9 +12,10 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.KeyEvent;
 import android.view.MenuItem;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-
+    private FloatingActionButton busqueda;
     private Toolbar toolbar;
 
     @Override
@@ -31,6 +34,16 @@ public class MainActivity extends AppCompatActivity {
         //se agrega el load
         toolbar.setTitle("Tabla Periodica");
         loadFragment(new tablaPeriodicaFragment() );
+
+        busqueda=(FloatingActionButton)findViewById(R.id.fab);
+
+     busqueda.setOnClickListener(new View.OnClickListener() {
+         @Override
+         public void onClick(View v) {
+             Intent intent=new Intent(getApplicationContext(),buscador.class);
+             startActivity(intent);
+         }
+     });
     }
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -86,4 +99,6 @@ public class MainActivity extends AppCompatActivity {
         transaction.addToBackStack(null);
         transaction.commit();
     }
+
+
 }
