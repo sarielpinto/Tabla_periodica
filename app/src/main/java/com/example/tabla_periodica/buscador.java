@@ -29,6 +29,7 @@ public class buscador extends AppCompatActivity {
     private static DatabaseAccess instance;
     private Context context=this;
     private ListView listView;
+    ListViewAdapter adapter;
     MaterialSearchView searchView;
     ArrayList<Elemento_id> listElem = new ArrayList<Elemento_id>();
     List<String> lstFound = new ArrayList<String>();
@@ -49,14 +50,16 @@ public class buscador extends AppCompatActivity {
         databaseAccess.close();
 
         for(int i=0; i < ids.size(); i++) {
-            Elemento_id idElem = new Elemento_id(ids.get(i));
+            Elemento_id idElem = new Elemento_id(ids.get(i), quotes.get(i));
            listElem.add(idElem);
             //Toast.makeText(getApplicationContext(), "la ID ES" + ids.get(i),Toast.LENGTH_SHORT).show();
         }
 
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, quotes);
+
+      ListViewAdapter adapter = new ListViewAdapter(this, listElem);
         this.listView.setAdapter(adapter);
+
         searchView = (MaterialSearchView)findViewById(R.id.search_view);
         searchView.setOnSearchViewListener(new MaterialSearchView.SearchViewListener() {
             @Override
@@ -69,7 +72,7 @@ public class buscador extends AppCompatActivity {
                 bandera = false;
                 //If closed Search View , lstView will return default
                 listView = (ListView)findViewById(R.id.lstView);
-                ArrayAdapter adapter = new ArrayAdapter(buscador.this,android.R.layout.simple_list_item_1,quotes);
+                ListViewAdapter adapter = new ListViewAdapter(buscador.this,listElem);
                 listView.setAdapter(adapter);
 
             }
@@ -98,7 +101,7 @@ public class buscador extends AppCompatActivity {
                     bandera = false;
                     //if search text is null
                     //return default
-                    ArrayAdapter adapter = new ArrayAdapter(buscador.this,android.R.layout.simple_list_item_1,quotes);
+                    ListViewAdapter adapter = new ListViewAdapter(buscador.this,listElem);
                     listView.setAdapter(adapter);
                 }
                 return true;
@@ -129,12 +132,12 @@ public class buscador extends AppCompatActivity {
         });
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_item,menu);
-        MenuItem item = menu.findItem(R.id.action_search);
-        searchView.setMenuItem(item);
-        return true;
-    }
+        @Override
+        public boolean onCreateOptionsMenu(Menu menu) {
+            getMenuInflater().inflate(R.menu.menu_item,menu);
+            MenuItem item = menu.findItem(R.id.action_search);
+            searchView.setMenuItem(item);
+            return true;
+        }
     }
 
